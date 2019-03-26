@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/juliusza/refactoring_practice_4.svg)](https://travis-ci.org/juliusza/refactoring_practice_4)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
