@@ -1,14 +1,14 @@
 {
-  "main.css": "/react_demo/static/css/main.9f8f8ebf.chunk.css",
-  "main.js": "/react_demo/static/js/main.c372c665.chunk.js",
-  "main.js.map": "/react_demo/static/js/main.c372c665.chunk.js.map",
-  "runtime~main.js": "/react_demo/static/js/runtime~main.27d5aae1.js",
-  "runtime~main.js.map": "/react_demo/static/js/runtime~main.27d5aae1.js.map",
-  "static/js/2.b934461c.chunk.js": "/react_demo/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/react_demo/static/js/2.b934461c.chunk.js.map",
-  "index.html": "/react_demo/index.html",
-  "precache-manifest.bfc6d62c3fbbed2ea311378c236d53d3.js": "/react_demo/precache-manifest.bfc6d62c3fbbed2ea311378c236d53d3.js",
-  "service-worker.js": "/react_demo/service-worker.js",
-  "static/css/main.9f8f8ebf.chunk.css.map": "/react_demo/static/css/main.9f8f8ebf.chunk.css.map",
-  "static/media/logo.svg": "/react_demo/static/media/logo.5d5d9eef.svg"
+  "main.css": "/refactoring_practice_4/static/css/main.9f8f8ebf.chunk.css",
+  "main.js": "/refactoring_practice_4/static/js/main.d6889437.chunk.js",
+  "main.js.map": "/refactoring_practice_4/static/js/main.d6889437.chunk.js.map",
+  "runtime~main.js": "/refactoring_practice_4/static/js/runtime~main.29fce33c.js",
+  "runtime~main.js.map": "/refactoring_practice_4/static/js/runtime~main.29fce33c.js.map",
+  "static/js/2.b934461c.chunk.js": "/refactoring_practice_4/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/refactoring_practice_4/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/refactoring_practice_4/index.html",
+  "precache-manifest.1922aeb6dc529be39d0376f12ca477ef.js": "/refactoring_practice_4/precache-manifest.1922aeb6dc529be39d0376f12ca477ef.js",
+  "service-worker.js": "/refactoring_practice_4/service-worker.js",
+  "static/css/main.9f8f8ebf.chunk.css.map": "/refactoring_practice_4/static/css/main.9f8f8ebf.chunk.css.map",
+  "static/media/logo.svg": "/refactoring_practice_4/static/media/logo.5d5d9eef.svg"
 }
