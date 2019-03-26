@@ -1,14 +1,15 @@
 {
   "main.css": "/refactoring_practice_4/static/css/main.9f8f8ebf.chunk.css",
-  "main.js": "/refactoring_practice_4/static/js/main.d6889437.chunk.js",
-  "main.js.map": "/refactoring_practice_4/static/js/main.d6889437.chunk.js.map",
+  "main.js": "/refactoring_practice_4/static/js/main.28f77237.chunk.js",
+  "main.js.map": "/refactoring_practice_4/static/js/main.28f77237.chunk.js.map",
   "runtime~main.js": "/refactoring_practice_4/static/js/runtime~main.29fce33c.js",
   "runtime~main.js.map": "/refactoring_practice_4/static/js/runtime~main.29fce33c.js.map",
-  "static/js/2.b934461c.chunk.js": "/refactoring_practice_4/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/refactoring_practice_4/static/js/2.b934461c.chunk.js.map",
+  "static/css/2.771047a9.chunk.css": "/refactoring_practice_4/static/css/2.771047a9.chunk.css",
+  "static/js/2.417f2fa9.chunk.js": "/refactoring_practice_4/static/js/2.417f2fa9.chunk.js",
+  "static/js/2.417f2fa9.chunk.js.map": "/refactoring_practice_4/static/js/2.417f2fa9.chunk.js.map",
   "index.html": "/refactoring_practice_4/index.html",
-  "precache-manifest.1922aeb6dc529be39d0376f12ca477ef.js": "/refactoring_practice_4/precache-manifest.1922aeb6dc529be39d0376f12ca477ef.js",
+  "precache-manifest.5f2c4f423fd33f39befb62eed0287978.js": "/refactoring_practice_4/precache-manifest.5f2c4f423fd33f39befb62eed0287978.js",
   "service-worker.js": "/refactoring_practice_4/service-worker.js",
-  "static/css/main.9f8f8ebf.chunk.css.map": "/refactoring_practice_4/static/css/main.9f8f8ebf.chunk.css.map",
-  "static/media/logo.svg": "/refactoring_practice_4/static/media/logo.5d5d9eef.svg"
+  "static/css/2.771047a9.chunk.css.map": "/refactoring_practice_4/static/css/2.771047a9.chunk.css.map",
+  "static/css/main.9f8f8ebf.chunk.css.map": "/refactoring_practice_4/static/css/main.9f8f8ebf.chunk.css.map"
 }
